@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">iRateApp</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_type">Restaurant Type</string>
+    <string name="flames_amp_grill"><![CDATA[Flames & Grill]]></string>
+    <string name="date_amp_time_of_visit"><![CDATA[Date & Time of Visit]]></string>
+    <string name="pick_date_time">Pick date time</string>
+    <string name="average_meal_price_zmw">Average meal price (ZMW)</string>
+    <string name="_25">25</string>
+    <string name="service_rating">Service Rating</string>
+    <string name="cleanliness_rating">Cleanliness rating</string>
+    <string name="food_quality_rating">Food quality rating</string>
+    <string name="notes">Notes (Optional)</string>
+    <string name="add_personal_notes_here">Add personal notes here</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="report_name">Report name</string>
+    <string name="invalid_name">Please enter valid name</string>
+    <string name="invalid_date">Please select date</string>
+    <string name="invalid_price">Please enter price</string>
+    <string name="invalid_rating_service">Please select rating service</string>
+    <string name="invalid_rating_cleanliness">Please  select cleanliness rating</string>
+    <string name="invalid_rating_food">Please select food rating</string>
+    <string name="invalid_reporter_name">Please enter reporter name</string>
+    <string-array name="restaurant_spinner">
+        <item>Grill</item>
+        <item>Fast food</item>
+        <item>Sea food</item>
+        <item>Fine dining</item>
+        <item>Cafe</item>
+        <item>Casual dining</item>
+    </string-array>
+</resources>

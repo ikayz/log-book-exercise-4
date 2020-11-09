@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_restaurant" type="id" />
+    <item name="restaurant_name_txt" type="id" />
+    <item name="restaurant_type" type="id" />
+    <item name="restaurant_spinner" type="id" />
+    <item name="tv_date_time" type="id" />
+    <item name="date_time" type="id" />
+    <item name="tv_price" type="id" />
+    <item name="price" type="id" />
+    <item name="service_rating" type="id" />
+    <item name="rating_bar_service" type="id" />
+    <item name="cleanliness_rating" type="id" />
+    <item name="rating_bar_cleanliness" type="id" />
+    <item name="food_quality_rating" type="id" />
+    <item name="rating_bar" type="id" />
+    <item name="tv_notes" type="id" />
+    <item name="tv_notes_" type="id" />
+    <item name="tv_reporter" type="id" />
+    <item name="edit_reporter" type="id" />
+</resources>
